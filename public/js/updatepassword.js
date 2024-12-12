@@ -8,6 +8,7 @@ window.addEventListener("load", async function () {
     e.preventDefault();
     const searchParams = new URLSearchParams(window.location.search);
 
+    
     const fetchUpdatePassword = await fetch("/api/sessions/updatepassword", {
       method: "post",
       headers: {

@@ -1,7 +1,7 @@
 module.exports = async (req, res) => {
   try {
     res.setHeader("Content-Type", "text/html");
-    res.status(200).render("products.handlebars", {
+    res.status(200).render("products", {
       title: "Home - Page",
       user: req.user,
     });

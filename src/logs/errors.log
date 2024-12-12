@@ -148,3 +148,4 @@ error: Cast to ObjectId failed for value "undefined" (type string) at path "_id"
 error: cid invalid
 error: Missing credentials for "PLAIN"
 error: E11000 duplicate key error collection: ecommerce.users index: email_1 dup key: { email: "cursoscoderenzo@gmail.com" }
+error: null

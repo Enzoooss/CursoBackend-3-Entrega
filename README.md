@@ -1,6 +1,3 @@
-Proyecto Ecommerce 
-SiLoUso
-
 Descripción
 Proyecto Final para el curso Backend de Coderhouse.
 
